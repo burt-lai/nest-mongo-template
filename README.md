@@ -28,6 +28,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+**Nest + mongoDB + TypeScript + typegoose + swagger**
+
 ## Installation
 
 ```bash
